@@ -59,3 +59,19 @@ Only a device supporting the applicated will be required for giving in the input
 
 ### How
 The code will be implemented with functions which will be called as per the index person wishes to see, and the function will be processing the input data given by the person. The output will be then printed giving the health check of the person.
+
+## High Level Requirements
+
+| ID   | Description | Category | Status |
+| --   | ----------- | -------- | ------ |
+| HR01 | User shall be able to give inputs | Techincal | Implemented |
+| HR02 |Desired input should be given with proper units |	Techincal |	Implemented |
+
+## Low Level Requirements
+| ID | Description | HLR ID | Status  (Implemented/ Future)|
+| -- | ----------- | ------ | --------------------------- |
+| LR01 | The system will be asking for few details such as age, name, height, weight as input which the user should be able to give	| HR01 | Implemented |
+| LR02 | Upon giving the input from the user, the user has to select one or more indices he wishes to see | HR02	| Implemented |
+| LR03 | User will be given three option for choosing which index is to be evaluated. 1 for BMI, 2 for BMR and 3 for Fat percentage (switch cases will be used accordingly to call the function) | HR02 |	Implemented |
+| LR04 | Receiving the input, the system must call the appropriate function which will process the inputs and give the desired output| HR02 |	Implemented |
+| LR05 | More fitness indices can be incorporated for making it a wholesome fitness index kit |	HR02 | Future |
