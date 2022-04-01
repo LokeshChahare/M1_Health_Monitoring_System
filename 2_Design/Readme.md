@@ -8,4 +8,14 @@ o Architecture Diagram
 
 o Use-Case Diagram
 
+![HLD_2](https://user-images.githubusercontent.com/101494192/161324374-081a2939-5146-43fa-9993-dcf7617647f8.jpg)
+
+## Low Level Design
+
+o Low level Design-1
+
+
+
+
+
 
