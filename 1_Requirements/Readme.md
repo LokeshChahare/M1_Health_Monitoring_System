@@ -40,3 +40,22 @@
 ![Flowchart](https://user-images.githubusercontent.com/101494192/161306696-5448af9b-2166-4e6a-8e1a-f2aca829bebf.jpg)
 
 ## SWOT ANALYSIS
+
+![Swot](https://user-images.githubusercontent.com/101494192/161308995-7abc7b72-4a98-4411-9ef9-fe045b849e27.jpg)
+
+## 4W & 1H
+
+### Who
+The project is accessible for everyone. A person has to simply input his basic details such as height, weight, etc. for getting the output.
+
+### What
+Upon receiving the inputs, the parameters will be processed and the index person wishes to see will be given as output.
+
+### When
+With increased environmental problems, focus has been on improving immunity and fitness level to survive the harsh environmental conditions such as pollutions, infections, and deadly pathogens. Thus, with more and more focus into health and fitness, people are motivated to work towards and it for a heathier lifestyle.
+
+### Where
+Only a device supporting the applicated will be required for giving in the inputs and getting the desired output.
+
+### How
+The code will be implemented with functions which will be called as per the index person wishes to see, and the function will be processing the input data given by the person. The output will be then printed giving the health check of the person.
