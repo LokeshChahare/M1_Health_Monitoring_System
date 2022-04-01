@@ -14,6 +14,12 @@ o Use-Case Diagram
 
 o Low level Design-1
 
+![LLD_1](https://user-images.githubusercontent.com/101494192/161324739-b0880869-9c5c-4d53-9b5d-5972313f80ef.jpg)
+
+o Low Level Design-2
+
+
+
 
 
 
