@@ -18,6 +18,9 @@ o Low level Design-1
 
 o Low Level Design-2
 
+![LLD_2](https://user-images.githubusercontent.com/101494192/161325149-7cc78ab1-4e81-4587-9e7d-a0c34cba6a7f.jpg)
+
+
 
 
 
