@@ -36,3 +36,7 @@
 • The project is aimed towards calculating the health and fitness indices such as Body Mass Index (BMI), Basal metabolic rate (BMR), Fat percentage. These are very crucial indices which determine the person’s everyday being and fitness quality.
 
 • Thereby, this project is a handy tool where the person has to simply give out basic details which will be processed and the output will be given with a report.
+
+![Flowchart](https://user-images.githubusercontent.com/101494192/161306696-5448af9b-2166-4e6a-8e1a-f2aca829bebf.jpg)
+
+## SWOT ANALYSIS
