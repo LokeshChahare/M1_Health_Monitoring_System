@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 #include "unity.h"
 #include <stddef.h>
 
@@ -2103,3 +2104,5 @@ int UnityTestMatches(void)
 
 #endif /* UNITY_USE_COMMAND_LINE_ARGS */
 /*-----------------------------------------------*/
+=======
+>>>>>>> fdb2c58ec44b5494c5e353959e52f20f7f2df8da
