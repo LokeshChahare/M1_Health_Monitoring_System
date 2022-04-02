@@ -13,6 +13,10 @@
 ### SWOT
 ![Swot](https://user-images.githubusercontent.com/101494192/161398773-a1b20138-03cd-4783-a230-a28924c7f612.jpg)
 
+### Flowchart
+![Flowchart](https://user-images.githubusercontent.com/101494192/161398802-6052a335-23ff-4432-ae77-f4839356ee40.jpg)
+
+
 
 
 
