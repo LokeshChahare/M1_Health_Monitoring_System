@@ -10,7 +10,9 @@
 ### Low Level Design 2
 ![LLD_2](https://user-images.githubusercontent.com/101494192/161397935-69f3fdfe-bf09-4003-89ff-c6a663918c03.jpg)
 
-###SWOT
+### SWOT
+![Swot](https://user-images.githubusercontent.com/101494192/161398773-a1b20138-03cd-4783-a230-a28924c7f612.jpg)
+
 
 
 
