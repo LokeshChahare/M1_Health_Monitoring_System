@@ -7,6 +7,8 @@
 | HR_01	| Functions should calculate BMI, BMR, FAT_PERCENT as per user's choice |	Integer choice | Success | Success | Technical |
 | HR_02	| User should give inputs in appropriate unit for functions to evaluate the inputs correctly | No I/P |	Success |	Success | Requirement based |
 
+
+
 ## Low Level Test Plan
 
 | Test ID |	Description |	Exp I/P |	Exp O/P |	Actual Out |	Type Of Test |
