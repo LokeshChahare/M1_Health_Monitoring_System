@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = ARS
+PROJECT_NAME = Health_Monitoring_System
 
 # Output directory
 BUILD = build
